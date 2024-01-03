@@ -190,7 +190,7 @@ a{
 }
 @media (min-width:751px) and (max-width:999){
   .main-grid{
-   grid-template-columns:1fr;
+   grid-template-columns:1fr 1fr;
   } 
 }
 @media (min-width:1000px){
