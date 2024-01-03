@@ -188,7 +188,7 @@ a{
     grid-template-columns:1fr;
    } 
 }
-@media (min-width:751px) and (max-width:999){
+@media (min-width:751px) and (max-width:999px){
   .main-grid{
    grid-template-columns:1fr 1fr;
   } 
@@ -197,6 +197,7 @@ a{
   .main-grid{
    grid-template-columns:1fr 1fr 1fr;
   }
+}
   .ad-thumbnail img{
    height:205px;
    width:50px;
