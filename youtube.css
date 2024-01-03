@@ -183,6 +183,20 @@ a{
   margin-top :170px;
   margin-left:200px;
 }
+@media (max-width:750px){
+   .main-grid{
+    grid-template-columns:1fr;
+   } 
+}
+@media (min-width:751px) and (max-width:999){
+  .main-grid{
+   grid-template-columns:1fr;
+  } 
+}
+@media (min-width:1000px){
+  .main-grid{
+   grid-template-columns:1fr 1fr 1fr;
+  }
   .ad-thumbnail img{
    height:205px;
    width:50px;
