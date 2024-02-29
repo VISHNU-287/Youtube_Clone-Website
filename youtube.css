@@ -349,7 +349,7 @@ body{
 
 @media(max-width:750px){
   .main-grid{
-    grid-template-columns: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
   }
 }
 @media(min-width:1000px){
