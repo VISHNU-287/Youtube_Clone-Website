@@ -1,0 +1,13 @@
+.container{
+    background-color:red;
+    height:130px;
+    width:130px;
+    position:relative;
+}
+.s-1{
+    background-color:black;
+    color:white;
+    position:absolute;
+    bottom:0px;
+    right:10px;
+}
